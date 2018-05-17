@@ -1,0 +1,1 @@
+This project involves the creation of a first-person puzzle game, based on the usage of impossible space, for the PCS-3539 discipline of POLI-USP.

@@ -1,0 +1,4 @@
+#exclui binarios do cpp
+/Saved
+/Binaries
+/.vs

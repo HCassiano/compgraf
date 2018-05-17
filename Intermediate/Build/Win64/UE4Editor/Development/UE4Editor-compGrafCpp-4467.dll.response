@@ -1,0 +1,75 @@
+/MANIFEST:NO
+/NOLOGO
+/DEBUG
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/FIXED:No
+/NXCOMPAT
+/STACK:5000000
+/DELAY:UNLOAD
+/DLL
+/PDBALTPATH:%_PDB%
+/OPT:NOREF
+/OPT:NOICF
+/INCREMENTAL:NO
+/ignore:4199
+/ignore:4099
+/DELAYLOAD:"d3d12.dll"
+/NODEFAULTLIB:"LIBCMT"
+/NODEFAULTLIB:"LIBCPMT"
+/NODEFAULTLIB:"LIBCMTD"
+/NODEFAULTLIB:"LIBCPMTD"
+/NODEFAULTLIB:"MSVCRTD"
+/NODEFAULTLIB:"MSVCPRTD"
+/NODEFAULTLIB:"LIBC"
+/NODEFAULTLIB:"LIBCP"
+/NODEFAULTLIB:"LIBCD"
+/NODEFAULTLIB:"LIBCPD"
+"G:\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.obj"
+"C:\Users\User\Documents\Unreal Projects\compGrafCpp\Intermediate\Build\Win64\UE4Editor\Development\compGrafCpp\compGrafCpp.cpp.obj"
+"C:\Users\User\Documents\Unreal Projects\compGrafCpp\Intermediate\Build\Win64\UE4Editor\Development\compGrafCpp\compGrafCppGameModeBase.cpp.obj"
+"C:\Users\User\Documents\Unreal Projects\compGrafCpp\Intermediate\Build\Win64\UE4Editor\Development\compGrafCpp\triggerTeste.cpp.obj"
+"C:\Users\User\Documents\Unreal Projects\compGrafCpp\Intermediate\Build\Win64\UE4Editor\Development\compGrafCpp\FP_FirstPersonCharacter.cpp.obj"
+"C:\Users\User\Documents\Unreal Projects\compGrafCpp\Intermediate\Build\Win64\UE4Editor\Development\compGrafCpp\FP_FirstPersonGameMode.cpp.obj"
+"C:\Users\User\Documents\Unreal Projects\compGrafCpp\Intermediate\Build\Win64\UE4Editor\Development\compGrafCpp\FP_FirstPersonHUD.cpp.obj"
+"C:\Users\User\Documents\Unreal Projects\compGrafCpp\Intermediate\Build\Win64\UE4Editor\Development\compGrafCpp\compGrafCpp.init.gen.cpp.obj"
+"C:\Users\User\Documents\Unreal Projects\compGrafCpp\Intermediate\Build\Win64\UE4Editor\Development\compGrafCpp\compGrafCppGameModeBase.gen.cpp.obj"
+"C:\Users\User\Documents\Unreal Projects\compGrafCpp\Intermediate\Build\Win64\UE4Editor\Development\compGrafCpp\FP_FirstPersonCharacter.gen.cpp.obj"
+"C:\Users\User\Documents\Unreal Projects\compGrafCpp\Intermediate\Build\Win64\UE4Editor\Development\compGrafCpp\FP_FirstPersonGameMode.gen.cpp.obj"
+"C:\Users\User\Documents\Unreal Projects\compGrafCpp\Intermediate\Build\Win64\UE4Editor\Development\compGrafCpp\FP_FirstPersonHUD.gen.cpp.obj"
+"C:\Users\User\Documents\Unreal Projects\compGrafCpp\Intermediate\Build\Win64\UE4Editor\Development\compGrafCpp\triggerTeste.gen.cpp.obj"
+"G:\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\compGrafCpp\PCLaunch.rc.res"
+"G:\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\ModuleVersionResource.rc.inl.res"
+"delayimp.lib"
+"wininet.lib"
+"rpcrt4.lib"
+"ws2_32.lib"
+"dbghelp.lib"
+"comctl32.lib"
+"Winmm.lib"
+"kernel32.lib"
+"user32.lib"
+"gdi32.lib"
+"winspool.lib"
+"comdlg32.lib"
+"advapi32.lib"
+"shell32.lib"
+"ole32.lib"
+"oleaut32.lib"
+"uuid.lib"
+"odbc32.lib"
+"odbccp32.lib"
+"netapi32.lib"
+"iphlpapi.lib"
+"setupapi.lib"
+"dwmapi.lib"
+"imm32.lib"
+"G:\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Engine.lib"
+"G:\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Core.lib"
+"G:\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-CoreUObject.lib"
+"G:\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-InputCore.lib"
+/OUT:"C:\Users\User\Documents\Unreal Projects\compGrafCpp\Binaries\Win64\UE4Editor-compGrafCpp-4467.dll"
+/IMPLIB:"C:\Users\User\Documents\Unreal Projects\compGrafCpp\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-compGrafCpp-4467.suppressed.lib"
+/PDB:"C:\Users\User\Documents\Unreal Projects\compGrafCpp\Binaries\Win64\UE4Editor-compGrafCpp-4467.pdb"
+/ignore:4078
