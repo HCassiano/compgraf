@@ -14,9 +14,13 @@ AtriggerTeste::AtriggerTeste()
 // Called when the game starts or when spawned
 void AtriggerTeste::BeginPlay()
 {
+	TArray <UActorComponent *> cone;
 	Super::BeginPlay();
 	OnActorBeginOverlap.AddDynamic(this, &AtriggerTeste::OnTriggerEnter);
 	OnActorEndOverlap.AddDynamic(this, &AtriggerTeste::OnTriggerExit);
+	cone = this->GetComponentsByTag(UActorComponent::StaticClass(), TEXT("cone"));
+	GLog->Log(cone[0]->ComponentTags[0].ToString());
+
 }
 
 // Called every frame
