@@ -1,0 +1,24 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-compGrafCpp-2266.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"G:\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.obj"
+"C:\Users\User\Documents\Unreal Projects\compGrafCpp\Intermediate\Build\Win64\UE4Editor\Development\compGrafCpp\compGrafCpp.cpp.obj"
+"C:\Users\User\Documents\Unreal Projects\compGrafCpp\Intermediate\Build\Win64\UE4Editor\Development\compGrafCpp\compGrafCppGameModeBase.cpp.obj"
+"C:\Users\User\Documents\Unreal Projects\compGrafCpp\Intermediate\Build\Win64\UE4Editor\Development\compGrafCpp\triggerTeste.cpp.obj"
+"C:\Users\User\Documents\Unreal Projects\compGrafCpp\Intermediate\Build\Win64\UE4Editor\Development\compGrafCpp\FP_FirstPersonCharacter.cpp.obj"
+"C:\Users\User\Documents\Unreal Projects\compGrafCpp\Intermediate\Build\Win64\UE4Editor\Development\compGrafCpp\FP_FirstPersonGameMode.cpp.obj"
+"C:\Users\User\Documents\Unreal Projects\compGrafCpp\Intermediate\Build\Win64\UE4Editor\Development\compGrafCpp\FP_FirstPersonHUD.cpp.obj"
+"C:\Users\User\Documents\Unreal Projects\compGrafCpp\Intermediate\Build\Win64\UE4Editor\Development\compGrafCpp\compGrafCpp.init.gen.cpp.obj"
+"C:\Users\User\Documents\Unreal Projects\compGrafCpp\Intermediate\Build\Win64\UE4Editor\Development\compGrafCpp\compGrafCppGameModeBase.gen.cpp.obj"
+"C:\Users\User\Documents\Unreal Projects\compGrafCpp\Intermediate\Build\Win64\UE4Editor\Development\compGrafCpp\FP_FirstPersonCharacter.gen.cpp.obj"
+"C:\Users\User\Documents\Unreal Projects\compGrafCpp\Intermediate\Build\Win64\UE4Editor\Development\compGrafCpp\FP_FirstPersonGameMode.gen.cpp.obj"
+"C:\Users\User\Documents\Unreal Projects\compGrafCpp\Intermediate\Build\Win64\UE4Editor\Development\compGrafCpp\FP_FirstPersonHUD.gen.cpp.obj"
+"C:\Users\User\Documents\Unreal Projects\compGrafCpp\Intermediate\Build\Win64\UE4Editor\Development\compGrafCpp\triggerTeste.gen.cpp.obj"
+"G:\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\compGrafCpp\PCLaunch.rc.res"
+"G:\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\ModuleVersionResource.rc.inl.res"
+/OUT:"C:\Users\User\Documents\Unreal Projects\compGrafCpp\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-compGrafCpp-2266.lib"
