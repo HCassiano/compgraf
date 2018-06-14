@@ -14,7 +14,7 @@ class AActor;
 #endif
 #define COMPGRAFCPP_triggerTeste_generated_h
 
-#define compGrafCpp_Source_compGrafCpp_triggerTeste_h_12_RPC_WRAPPERS \
+#define compgraf_Source_compGrafCpp_triggerTeste_h_12_RPC_WRAPPERS \
  \
 	DECLARE_FUNCTION(execOnTriggerExit) \
 	{ \
@@ -37,7 +37,7 @@ class AActor;
 	}
 
 
-#define compGrafCpp_Source_compGrafCpp_triggerTeste_h_12_RPC_WRAPPERS_NO_PURE_DECLS \
+#define compgraf_Source_compGrafCpp_triggerTeste_h_12_RPC_WRAPPERS_NO_PURE_DECLS \
  \
 	DECLARE_FUNCTION(execOnTriggerExit) \
 	{ \
@@ -60,7 +60,7 @@ class AActor;
 	}
 
 
-#define compGrafCpp_Source_compGrafCpp_triggerTeste_h_12_INCLASS_NO_PURE_DECLS \
+#define compgraf_Source_compGrafCpp_triggerTeste_h_12_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesAtriggerTeste(); \
 	friend COMPGRAFCPP_API class UClass* Z_Construct_UClass_AtriggerTeste(); \
@@ -70,7 +70,7 @@ public: \
 	enum {IsIntrinsic=COMPILED_IN_INTRINSIC};
 
 
-#define compGrafCpp_Source_compGrafCpp_triggerTeste_h_12_INCLASS \
+#define compgraf_Source_compGrafCpp_triggerTeste_h_12_INCLASS \
 private: \
 	static void StaticRegisterNativesAtriggerTeste(); \
 	friend COMPGRAFCPP_API class UClass* Z_Construct_UClass_AtriggerTeste(); \
@@ -80,7 +80,7 @@ public: \
 	enum {IsIntrinsic=COMPILED_IN_INTRINSIC};
 
 
-#define compGrafCpp_Source_compGrafCpp_triggerTeste_h_12_STANDARD_CONSTRUCTORS \
+#define compgraf_Source_compGrafCpp_triggerTeste_h_12_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API AtriggerTeste(const FObjectInitializer& ObjectInitializer); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(AtriggerTeste) \
@@ -93,7 +93,7 @@ private: \
 public:
 
 
-#define compGrafCpp_Source_compGrafCpp_triggerTeste_h_12_ENHANCED_CONSTRUCTORS \
+#define compgraf_Source_compGrafCpp_triggerTeste_h_12_ENHANCED_CONSTRUCTORS \
 private: \
 	/** Private move- and copy-constructors, should never be used */ \
 	NO_API AtriggerTeste(AtriggerTeste&&); \
@@ -104,32 +104,32 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(AtriggerTeste); \
 	DEFINE_DEFAULT_CONSTRUCTOR_CALL(AtriggerTeste)
 
 
-#define compGrafCpp_Source_compGrafCpp_triggerTeste_h_12_PRIVATE_PROPERTY_OFFSET
-#define compGrafCpp_Source_compGrafCpp_triggerTeste_h_9_PROLOG
-#define compGrafCpp_Source_compGrafCpp_triggerTeste_h_12_GENERATED_BODY_LEGACY \
+#define compgraf_Source_compGrafCpp_triggerTeste_h_12_PRIVATE_PROPERTY_OFFSET
+#define compgraf_Source_compGrafCpp_triggerTeste_h_9_PROLOG
+#define compgraf_Source_compGrafCpp_triggerTeste_h_12_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	compGrafCpp_Source_compGrafCpp_triggerTeste_h_12_PRIVATE_PROPERTY_OFFSET \
-	compGrafCpp_Source_compGrafCpp_triggerTeste_h_12_RPC_WRAPPERS \
-	compGrafCpp_Source_compGrafCpp_triggerTeste_h_12_INCLASS \
-	compGrafCpp_Source_compGrafCpp_triggerTeste_h_12_STANDARD_CONSTRUCTORS \
+	compgraf_Source_compGrafCpp_triggerTeste_h_12_PRIVATE_PROPERTY_OFFSET \
+	compgraf_Source_compGrafCpp_triggerTeste_h_12_RPC_WRAPPERS \
+	compgraf_Source_compGrafCpp_triggerTeste_h_12_INCLASS \
+	compgraf_Source_compGrafCpp_triggerTeste_h_12_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define compGrafCpp_Source_compGrafCpp_triggerTeste_h_12_GENERATED_BODY \
+#define compgraf_Source_compGrafCpp_triggerTeste_h_12_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	compGrafCpp_Source_compGrafCpp_triggerTeste_h_12_PRIVATE_PROPERTY_OFFSET \
-	compGrafCpp_Source_compGrafCpp_triggerTeste_h_12_RPC_WRAPPERS_NO_PURE_DECLS \
-	compGrafCpp_Source_compGrafCpp_triggerTeste_h_12_INCLASS_NO_PURE_DECLS \
-	compGrafCpp_Source_compGrafCpp_triggerTeste_h_12_ENHANCED_CONSTRUCTORS \
+	compgraf_Source_compGrafCpp_triggerTeste_h_12_PRIVATE_PROPERTY_OFFSET \
+	compgraf_Source_compGrafCpp_triggerTeste_h_12_RPC_WRAPPERS_NO_PURE_DECLS \
+	compgraf_Source_compGrafCpp_triggerTeste_h_12_INCLASS_NO_PURE_DECLS \
+	compgraf_Source_compGrafCpp_triggerTeste_h_12_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID compGrafCpp_Source_compGrafCpp_triggerTeste_h
+#define CURRENT_FILE_ID compgraf_Source_compGrafCpp_triggerTeste_h
 
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

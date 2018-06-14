@@ -13,9 +13,9 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define COMPGRAFCPP_compGrafCppGameModeBase_generated_h
 
-#define compGrafCpp_Source_compGrafCpp_compGrafCppGameModeBase_h_15_RPC_WRAPPERS
-#define compGrafCpp_Source_compGrafCpp_compGrafCppGameModeBase_h_15_RPC_WRAPPERS_NO_PURE_DECLS
-#define compGrafCpp_Source_compGrafCpp_compGrafCppGameModeBase_h_15_INCLASS_NO_PURE_DECLS \
+#define compgraf_Source_compGrafCpp_compGrafCppGameModeBase_h_15_RPC_WRAPPERS
+#define compgraf_Source_compGrafCpp_compGrafCppGameModeBase_h_15_RPC_WRAPPERS_NO_PURE_DECLS
+#define compgraf_Source_compGrafCpp_compGrafCppGameModeBase_h_15_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesAcompGrafCppGameModeBase(); \
 	friend COMPGRAFCPP_API class UClass* Z_Construct_UClass_AcompGrafCppGameModeBase(); \
@@ -25,7 +25,7 @@ public: \
 	enum {IsIntrinsic=COMPILED_IN_INTRINSIC};
 
 
-#define compGrafCpp_Source_compGrafCpp_compGrafCppGameModeBase_h_15_INCLASS \
+#define compgraf_Source_compGrafCpp_compGrafCppGameModeBase_h_15_INCLASS \
 private: \
 	static void StaticRegisterNativesAcompGrafCppGameModeBase(); \
 	friend COMPGRAFCPP_API class UClass* Z_Construct_UClass_AcompGrafCppGameModeBase(); \
@@ -35,7 +35,7 @@ public: \
 	enum {IsIntrinsic=COMPILED_IN_INTRINSIC};
 
 
-#define compGrafCpp_Source_compGrafCpp_compGrafCppGameModeBase_h_15_STANDARD_CONSTRUCTORS \
+#define compgraf_Source_compGrafCpp_compGrafCppGameModeBase_h_15_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API AcompGrafCppGameModeBase(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(AcompGrafCppGameModeBase) \
@@ -48,7 +48,7 @@ private: \
 public:
 
 
-#define compGrafCpp_Source_compGrafCpp_compGrafCppGameModeBase_h_15_ENHANCED_CONSTRUCTORS \
+#define compgraf_Source_compGrafCpp_compGrafCppGameModeBase_h_15_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API AcompGrafCppGameModeBase(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
 private: \
@@ -61,32 +61,32 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(AcompGrafCppGameModeBase); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(AcompGrafCppGameModeBase)
 
 
-#define compGrafCpp_Source_compGrafCpp_compGrafCppGameModeBase_h_15_PRIVATE_PROPERTY_OFFSET
-#define compGrafCpp_Source_compGrafCpp_compGrafCppGameModeBase_h_12_PROLOG
-#define compGrafCpp_Source_compGrafCpp_compGrafCppGameModeBase_h_15_GENERATED_BODY_LEGACY \
+#define compgraf_Source_compGrafCpp_compGrafCppGameModeBase_h_15_PRIVATE_PROPERTY_OFFSET
+#define compgraf_Source_compGrafCpp_compGrafCppGameModeBase_h_12_PROLOG
+#define compgraf_Source_compGrafCpp_compGrafCppGameModeBase_h_15_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	compGrafCpp_Source_compGrafCpp_compGrafCppGameModeBase_h_15_PRIVATE_PROPERTY_OFFSET \
-	compGrafCpp_Source_compGrafCpp_compGrafCppGameModeBase_h_15_RPC_WRAPPERS \
-	compGrafCpp_Source_compGrafCpp_compGrafCppGameModeBase_h_15_INCLASS \
-	compGrafCpp_Source_compGrafCpp_compGrafCppGameModeBase_h_15_STANDARD_CONSTRUCTORS \
+	compgraf_Source_compGrafCpp_compGrafCppGameModeBase_h_15_PRIVATE_PROPERTY_OFFSET \
+	compgraf_Source_compGrafCpp_compGrafCppGameModeBase_h_15_RPC_WRAPPERS \
+	compgraf_Source_compGrafCpp_compGrafCppGameModeBase_h_15_INCLASS \
+	compgraf_Source_compGrafCpp_compGrafCppGameModeBase_h_15_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define compGrafCpp_Source_compGrafCpp_compGrafCppGameModeBase_h_15_GENERATED_BODY \
+#define compgraf_Source_compGrafCpp_compGrafCppGameModeBase_h_15_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	compGrafCpp_Source_compGrafCpp_compGrafCppGameModeBase_h_15_PRIVATE_PROPERTY_OFFSET \
-	compGrafCpp_Source_compGrafCpp_compGrafCppGameModeBase_h_15_RPC_WRAPPERS_NO_PURE_DECLS \
-	compGrafCpp_Source_compGrafCpp_compGrafCppGameModeBase_h_15_INCLASS_NO_PURE_DECLS \
-	compGrafCpp_Source_compGrafCpp_compGrafCppGameModeBase_h_15_ENHANCED_CONSTRUCTORS \
+	compgraf_Source_compGrafCpp_compGrafCppGameModeBase_h_15_PRIVATE_PROPERTY_OFFSET \
+	compgraf_Source_compGrafCpp_compGrafCppGameModeBase_h_15_RPC_WRAPPERS_NO_PURE_DECLS \
+	compgraf_Source_compGrafCpp_compGrafCppGameModeBase_h_15_INCLASS_NO_PURE_DECLS \
+	compgraf_Source_compGrafCpp_compGrafCppGameModeBase_h_15_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID compGrafCpp_Source_compGrafCpp_compGrafCppGameModeBase_h
+#define CURRENT_FILE_ID compgraf_Source_compGrafCpp_compGrafCppGameModeBase_h
 
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
