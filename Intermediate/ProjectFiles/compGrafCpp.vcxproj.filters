@@ -1,55 +1,79 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
+
 <Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
-  <ItemGroup>
-    <None Include="..\..\compGrafCpp.uproject" />
-    <Filter Include="Source">
-      <UniqueIdentifier>{30C1231F-C72E-4143-8E8E-0A38B698EBAC}</UniqueIdentifier>
-    </Filter>
-    <None Include="..\..\Source\compGrafCpp.Target.cs">
-      <Filter>Source</Filter>
-    </None>
-    <None Include="..\..\Source\compGrafCppEditor.Target.cs">
-      <Filter>Source</Filter>
-    </None>
-    <Filter Include="Config">
-      <UniqueIdentifier>{1557CAA9-0428-48C9-AA60-A6E04D39E6AC}</UniqueIdentifier>
-    </Filter>
-    <None Include="..\..\Config\DefaultEditor.ini">
-      <Filter>Config</Filter>
-    </None>
-    <None Include="..\..\Config\DefaultEngine.ini">
-      <Filter>Config</Filter>
-    </None>
-    <None Include="..\..\Config\DefaultGame.ini">
-      <Filter>Config</Filter>
-    </None>
-    <Filter Include="Source\compGrafCpp">
-      <UniqueIdentifier>{6F793F05-86A0-42AF-94DD-D75EDC0DEB94}</UniqueIdentifier>
-    </Filter>
-    <None Include="..\..\Source\compGrafCpp\compGrafCpp.Build.cs">
-      <Filter>Source\compGrafCpp</Filter>
-    </None>
-    <ClCompile Include="..\..\Source\compGrafCpp\compGrafCpp.cpp">
-      <Filter>Source\compGrafCpp</Filter>
-    </ClCompile>
-    <ClInclude Include="..\..\Source\compGrafCpp\compGrafCpp.h">
-      <Filter>Source\compGrafCpp</Filter>
-    </ClInclude>
-    <ClCompile Include="..\..\Source\compGrafCpp\compGrafCppGameModeBase.cpp">
-      <Filter>Source\compGrafCpp</Filter>
-    </ClCompile>
-    <ClInclude Include="..\..\Source\compGrafCpp\compGrafCppGameModeBase.h">
-      <Filter>Source\compGrafCpp</Filter>
-    </ClInclude>
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="..\..\Source\compGrafCpp\triggerTeste.h">
-      <Filter>Source\compGrafCpp</Filter>
-    </ClInclude>
-  </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="..\..\Source\compGrafCpp\triggerTeste.cpp">
-      <Filter>Source\compGrafCpp</Filter>
-    </ClCompile>
-  </ItemGroup>
+	<ItemGroup>
+		<None Include="..\..\compGrafCpp.uproject" />
+		<Filter Include="Source">
+			<UniqueIdentifier>{75A06DDD-F419-465D-B3FD-CA2639EC9D8B}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\compGrafCpp.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<None Include="..\..\Source\compGrafCppEditor.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<Filter Include="Config">
+			<UniqueIdentifier>{A533EC54-92B2-47F1-98E7-CC1A8A3E9F27}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Config\DefaultEditor.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEngine.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultGame.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultInput.ini">
+			<Filter>Config</Filter>
+		</None >
+		<Filter Include="Source\compGrafCpp">
+			<UniqueIdentifier>{D5D72083-4643-48A8-BB5F-064E4CA37DFD}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\compGrafCpp\compGrafCpp.Build.cs">
+			<Filter>Source\compGrafCpp</Filter>
+		</None >
+		<ClCompile Include="..\..\Source\compGrafCpp\compGrafCpp.cpp">
+			<Filter>Source\compGrafCpp</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\compGrafCpp\compGrafCpp.h">
+			<Filter>Source\compGrafCpp</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\compGrafCpp\compGrafCppGameModeBase.cpp">
+			<Filter>Source\compGrafCpp</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\compGrafCpp\compGrafCppGameModeBase.h">
+			<Filter>Source\compGrafCpp</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\compGrafCpp\triggerTeste.cpp">
+			<Filter>Source\compGrafCpp</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\compGrafCpp\triggerTeste.h">
+			<Filter>Source\compGrafCpp</Filter>
+		</ClInclude >
+		<Filter Include="Source\compGrafCpp\FP_FirstPerson">
+			<UniqueIdentifier>{80111D06-A24D-4CCD-A2F6-8CBC16CB86BB}</UniqueIdentifier>
+		</Filter>
+		<ClInclude Include="..\..\Source\compGrafCpp\FP_FirstPerson\FP_FirstPerson.h">
+			<Filter>Source\compGrafCpp\FP_FirstPerson</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\compGrafCpp\FP_FirstPerson\FP_FirstPersonCharacter.cpp">
+			<Filter>Source\compGrafCpp\FP_FirstPerson</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\compGrafCpp\FP_FirstPerson\FP_FirstPersonCharacter.h">
+			<Filter>Source\compGrafCpp\FP_FirstPerson</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\compGrafCpp\FP_FirstPerson\FP_FirstPersonGameMode.cpp">
+			<Filter>Source\compGrafCpp\FP_FirstPerson</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\compGrafCpp\FP_FirstPerson\FP_FirstPersonGameMode.h">
+			<Filter>Source\compGrafCpp\FP_FirstPerson</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\compGrafCpp\FP_FirstPerson\FP_FirstPersonHUD.cpp">
+			<Filter>Source\compGrafCpp\FP_FirstPerson</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\compGrafCpp\FP_FirstPerson\FP_FirstPersonHUD.h">
+			<Filter>Source\compGrafCpp\FP_FirstPerson</Filter>
+		</ClInclude >
+	</ItemGroup>
 </Project>
