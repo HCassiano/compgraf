@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 
-<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
 	<ItemGroup>
 		<None Include="..\..\compGrafCpp.uproject" />
 		<Filter Include="Source">
-			<UniqueIdentifier>{75A06DDD-F419-465D-B3FD-CA2639EC9D8B}</UniqueIdentifier>
+			<UniqueIdentifier>{B347C524-2E16-4042-B0C7-566C338894C4}</UniqueIdentifier>
 		</Filter>
 		<None Include="..\..\Source\compGrafCpp.Target.cs">
 			<Filter>Source</Filter>
@@ -13,7 +13,7 @@
 			<Filter>Source</Filter>
 		</None >
 		<Filter Include="Config">
-			<UniqueIdentifier>{A533EC54-92B2-47F1-98E7-CC1A8A3E9F27}</UniqueIdentifier>
+			<UniqueIdentifier>{156A872C-AA48-4B84-87AA-6F19D9E973C3}</UniqueIdentifier>
 		</Filter>
 		<None Include="..\..\Config\DefaultEditor.ini">
 			<Filter>Config</Filter>
@@ -28,7 +28,7 @@
 			<Filter>Config</Filter>
 		</None >
 		<Filter Include="Source\compGrafCpp">
-			<UniqueIdentifier>{D5D72083-4643-48A8-BB5F-064E4CA37DFD}</UniqueIdentifier>
+			<UniqueIdentifier>{56D3BF6E-21F0-4946-8CB9-1F896510E0F0}</UniqueIdentifier>
 		</Filter>
 		<None Include="..\..\Source\compGrafCpp\compGrafCpp.Build.cs">
 			<Filter>Source\compGrafCpp</Filter>
@@ -52,7 +52,7 @@
 			<Filter>Source\compGrafCpp</Filter>
 		</ClInclude >
 		<Filter Include="Source\compGrafCpp\FP_FirstPerson">
-			<UniqueIdentifier>{80111D06-A24D-4CCD-A2F6-8CBC16CB86BB}</UniqueIdentifier>
+			<UniqueIdentifier>{06F6814E-19F8-4952-BEC0-3DC21EAE6FDE}</UniqueIdentifier>
 		</Filter>
 		<ClInclude Include="..\..\Source\compGrafCpp\FP_FirstPerson\FP_FirstPerson.h">
 			<Filter>Source\compGrafCpp\FP_FirstPerson</Filter>

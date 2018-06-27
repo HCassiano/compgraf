@@ -1,3 +1,3 @@
-C:\Users\User\Documents\Unreal Projects\compGrafCpp\Source\compGrafCpp\compGrafCpp.Build.cs
-C:\Users\User\Documents\Unreal Projects\compGrafCpp\Source\compGrafCpp.Target.cs
-C:\Users\User\Documents\Unreal Projects\compGrafCpp\Source\compGrafCppEditor.Target.cs
+C:\Users\akina\Documents\compgraf-master\Source\compGrafCpp\compGrafCpp.Build.cs
+C:\Users\akina\Documents\compgraf-master\Source\compGrafCpp.Target.cs
+C:\Users\akina\Documents\compgraf-master\Source\compGrafCppEditor.Target.cs
